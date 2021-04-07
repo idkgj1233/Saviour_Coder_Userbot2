@@ -19,7 +19,7 @@
 
 # String Session - Pyrogram 🖱
 ### Repl 🧨
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://repl.it/@TeamUltroid/UltroidStringSession#main.py)
+[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@GjI1/SC-Ulteroid-String-Session#main.py)
 ### Locally 🏆
 - Get your `API_ID` and `API_HASH` from [here](https://my.telegram.org/)
 - Get your `REDIS_URI` and `REDIS_PASSWORD` from [here](https://redislabs.com), tutorial [here](./resources/extras/redistut.md).
